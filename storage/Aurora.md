@@ -1,4 +1,4 @@
-![[Pasted image 20221101210837.png]]
+
 # Amazon Aurora
 
 ## TLDR
