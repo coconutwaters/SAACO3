@@ -1,4 +1,4 @@
-![[Pasted image 20221031094906.png]]
+
 # Cost Explorer
 
 
