@@ -1,4 +1,4 @@
-![[Pasted image 20221101204757.png]]
+
 # Elastic Block Store
 
 ## TLDR
