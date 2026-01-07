@@ -1,4 +1,4 @@
-![[Pasted image 20221101172817.png]]
+
 # Cloudformation
 
 ## TLDR
