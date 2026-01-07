@@ -1,4 +1,4 @@
-![[Pasted image 20221031092405.png]]
+
 # AWS Control Tower
 
 ## TLDR
