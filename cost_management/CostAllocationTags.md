@@ -1,4 +1,4 @@
-![[Pasted image 20221031094736.png]]
+
 # Cost Allocation Tags
 
 ## TLDR
