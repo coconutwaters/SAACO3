@@ -1,4 +1,4 @@
-![[Pasted image 20221101163353.png]]
+
 # Amazon Simple Notification Service
 
 ## TLDR
