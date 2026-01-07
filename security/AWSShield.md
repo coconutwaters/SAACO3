@@ -1,4 +1,4 @@
-![[Pasted image 20221101165431.png]]
+
 # AWS Shield
 
 ## TLDR
