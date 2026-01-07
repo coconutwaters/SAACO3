@@ -1,4 +1,4 @@
-![[Pasted image 20221030232800.png]]
+
 # Amazon Elastic Transcoder
 
 ## TLDR
