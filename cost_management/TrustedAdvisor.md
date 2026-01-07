@@ -1,4 +1,4 @@
-![[Pasted image 20221031095825.png]]
+
 #  Trusted Advisor
 
 ## TLDR
