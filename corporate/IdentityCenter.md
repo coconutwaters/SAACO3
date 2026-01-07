@@ -1,4 +1,4 @@
-![[Pasted image 20221031093528.png]]
+
 # [[IAM]] Identity Center
 
 ## TLDR
