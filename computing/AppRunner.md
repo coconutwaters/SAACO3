@@ -1,4 +1,4 @@
-![[Pasted image 20221030222001.png]]
+
 # App Runner
 
 ## TLDR
