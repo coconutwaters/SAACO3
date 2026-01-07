@@ -1,4 +1,4 @@
-![[Pasted image 20221031105246.png]]
+
 # Amazon AppFlow
 
 ## TLDR 
