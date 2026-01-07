@@ -1,4 +1,4 @@
-![[Pasted image 20221031085836.png]]
+
 # AWS Organisations
 
 ## TLDR
