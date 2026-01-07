@@ -1,4 +1,4 @@
-![[Pasted image 20221030234403.png]]
+
 # AWS Proton
 
 ## TLDR
