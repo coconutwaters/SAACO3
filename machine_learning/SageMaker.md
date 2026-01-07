@@ -1,4 +1,4 @@
-![[Pasted image 20221031141623.png]]
+
 # Sage Maker
 
 ## TLDR
