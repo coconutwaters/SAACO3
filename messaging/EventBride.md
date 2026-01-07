@@ -1,4 +1,4 @@
-![[Pasted image 20221101205129.png]]
+
 # EventBride
 
 ## TLDR
