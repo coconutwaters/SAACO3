@@ -1,4 +1,4 @@
-![[Pasted image 20221102200732.png]]
+
 # AWS Backup
 
 ## TLDR
