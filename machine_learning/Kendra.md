@@ -1,4 +1,4 @@
-![[Pasted image 20221031140449.png]]
+
 # Kendra
 
 ## TLDR
