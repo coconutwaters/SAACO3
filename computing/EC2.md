@@ -1,4 +1,4 @@
-![[Pasted image 20221030223457.png]]
+
 # Elastic Compute Cloud
 
 ## TLDR
