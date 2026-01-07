@@ -1,4 +1,4 @@
-![[Pasted image 20221030223211.png]]
+
 # AWS Batch
 
 ## TLDR
