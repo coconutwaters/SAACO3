@@ -1,4 +1,4 @@
-![[Pasted image 20221031111028.png]]
+
 # Transfer Family
 
 ## TLDR
