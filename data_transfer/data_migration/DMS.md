@@ -1,4 +1,4 @@
-![[Pasted image 20221031103642.png]]
+
 # Database Migiration Service
 
 ## TLDR
