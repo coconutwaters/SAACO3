@@ -1,4 +1,4 @@
-![[Pasted image 20221031110419.png]]
+
 # Storage Gateway
 
 ## TLDR
