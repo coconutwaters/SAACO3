@@ -1,4 +1,4 @@
-![[Pasted image 20221101212132.png]]
+
 # DynamoDB
 
 ## TLDR
