@@ -1,4 +1,4 @@
-![[Pasted image 20221031092232.png]]
+
 # Connect
 
 ## TLDR
