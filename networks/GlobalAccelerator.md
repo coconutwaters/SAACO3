@@ -1,7 +1,6 @@
 
 # AWS Global Accelerator
 
-![[Pasted image 20221101170746.png]]
 ## TLDR
 UDP compatible global endpoint to speed up networkt traffic to your VPC by using edge locations and aws private network.
 
