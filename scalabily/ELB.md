@@ -1,4 +1,4 @@
-![[Pasted image 20221101114927.png]]
+
 # Elastic Load Balancer
 
 ## TLDR
