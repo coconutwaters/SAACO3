@@ -1,4 +1,4 @@
-![[Pasted image 20221030221245.png]]
+
 # AMI Amazone Mashine Image
 
 ## TLDR
