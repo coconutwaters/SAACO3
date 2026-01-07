@@ -1,4 +1,4 @@
-![[Pasted image 20221031111307.png]]
+
 # VPN
 
 ## TLDR
