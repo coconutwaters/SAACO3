@@ -1,4 +1,4 @@
-![[Pasted image 20221031140738.png]]
+
 # Personalize
 
 ## TLDR
