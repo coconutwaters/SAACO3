@@ -1,4 +1,4 @@
-![[Pasted image 20221031104435.png]]
+
 # AWS Snow Family
 
 ## TLDR
