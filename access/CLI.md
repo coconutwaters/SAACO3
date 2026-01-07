@@ -1,6 +1,4 @@
 
-![[Pasted image 20221030110235.png]]
-
 ## TLDR
 The AWS CLI can be used to create, change or delete ressources and services in AWS Via Command Line. Its often for automation purposes.
 
