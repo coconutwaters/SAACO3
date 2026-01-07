@@ -1,4 +1,4 @@
-![[Pasted image 20221031102804.png]]
+
 # Application Discovery Service
 
 ## TLDR
