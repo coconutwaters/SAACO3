@@ -1,4 +1,4 @@
-![[Pasted image 20221101130307.png]]
+
 # Eastic File System
 
 ## TLDR 
