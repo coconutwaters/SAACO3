@@ -1,4 +1,4 @@
-![[Pasted image 20221031141128.png]]
+
 # QuickSight
 
 ## TLDR
