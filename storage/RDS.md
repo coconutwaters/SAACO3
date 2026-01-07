@@ -1,4 +1,4 @@
-![[Pasted image 20221101124548.png]]
+
 # RDS
 
 ## TLDR
