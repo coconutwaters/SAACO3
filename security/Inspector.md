@@ -1,4 +1,4 @@
-![[Pasted image 20221101121751.png]]
+
 # Inspector
 - automatic Security assessments
 - continues scanning of infrastructure
