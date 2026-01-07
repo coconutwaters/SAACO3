@@ -1,4 +1,4 @@
-![[Pasted image 20221031095237.png]]
+
 # Savings Plans
 
 ## TLDR
