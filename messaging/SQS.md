@@ -1,4 +1,4 @@
-![[Pasted image 20221101125233.png]]
+
 # Simple Queue Service
 
 ## TLDR
