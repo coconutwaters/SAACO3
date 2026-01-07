@@ -1,4 +1,4 @@
-![[Pasted image 20221030233208.png]]
+
 # AWS Lambda
 
 ## TLDR
