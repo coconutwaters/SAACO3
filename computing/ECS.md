@@ -1,4 +1,4 @@
-![[Pasted image 20221030231124.png]]
+
 # Elastic Container Service
 
 ## TLDR
