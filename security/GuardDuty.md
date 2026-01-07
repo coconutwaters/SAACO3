@@ -1,4 +1,4 @@
-![[Pasted image 20221102195508.png]]
+
 # Amazon Guard Duty
 
 ## TLDR
