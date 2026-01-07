@@ -1,4 +1,4 @@
-![[Pasted image 20221102200252.png]]
+
 # AWS Network Firewall
 
 ## TLDR
