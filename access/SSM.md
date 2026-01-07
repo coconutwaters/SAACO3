@@ -1,4 +1,4 @@
-![[Pasted image 20221030220736.png]]
+
 # Systems Manager Session Manager
 
 ## TLDR
