@@ -1,4 +1,4 @@
-![[Pasted image 20221101120425.png]]
+
 # Kinesis
 
 ## TLDR
