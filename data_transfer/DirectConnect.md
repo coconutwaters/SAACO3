@@ -1,4 +1,4 @@
-![[Pasted image 20221031105646.png]]
+
 # Direct Connect
 
 ## TLDR
