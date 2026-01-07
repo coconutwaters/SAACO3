@@ -1,4 +1,4 @@
-![[Pasted image 20221031085227.png]]
+
 # Directory Service
 
 ## TLDR
