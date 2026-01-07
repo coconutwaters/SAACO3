@@ -1,4 +1,4 @@
-![[Pasted image 20221101210003.png]]
+
 # VPC Virtual Private Cloud
 
 ## TLDR
