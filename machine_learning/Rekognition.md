@@ -1,4 +1,4 @@
-![[Pasted image 20221031141428.png]]
+
 # Rekogniton
 
 ## TLDR
