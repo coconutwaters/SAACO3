@@ -1,4 +1,4 @@
-![[Pasted image 20221031094503.png]]
+
 # AWS Compute Optimizer
 
 ## TLDR
