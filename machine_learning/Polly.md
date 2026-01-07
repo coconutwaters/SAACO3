@@ -1,4 +1,4 @@
-![[Pasted image 20221031140904.png]]
+
 # Polly
 
 ## TLDR
