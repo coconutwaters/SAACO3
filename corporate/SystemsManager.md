@@ -1,4 +1,4 @@
-![[Pasted image 20221031093822.png]]
+
 # AWS Systems Manager
 
 ## TLDR
