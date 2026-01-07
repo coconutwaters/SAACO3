@@ -1,4 +1,4 @@
-![[Pasted image 20221031094244.png]]
+
 # AWS Billing
 
 ## TLDR
