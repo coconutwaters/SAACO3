@@ -1,4 +1,4 @@
-![[Pasted image 20221101164642.png]]
+
 # Elasticache
 
 ## TLDR
