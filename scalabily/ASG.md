@@ -1,4 +1,4 @@
-![[Pasted image 20221101113842.png]]
+
 # Auto Scaling Group
 
 ## TLDR
