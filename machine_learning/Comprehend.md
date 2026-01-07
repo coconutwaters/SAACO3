@@ -1,4 +1,4 @@
-![[Pasted image 20221031135919.png]]
+
 # Comprehend
 
 ## TLDR
