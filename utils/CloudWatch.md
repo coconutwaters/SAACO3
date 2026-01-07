@@ -1,4 +1,4 @@
-![[Pasted image 20221101162633.png]]
+
 # CloudWatch
 
 ## TLDR
