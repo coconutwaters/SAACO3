@@ -1,4 +1,4 @@
-![[Pasted image 20221101114116.png]]
+
 # Route 53
 
 ## TLDR
