@@ -1,4 +1,4 @@
-![[Pasted image 20221101171725.png]]
+
 # Web Application Firewall
 - protection against layer 7 exploits (http)
 
